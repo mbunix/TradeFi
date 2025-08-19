@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "GDMLMRz3xHU=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Personals\\Tradifi\\tradefi-platform\\services\\api-gateway\\src\\Tradifi.ApiGateway\\ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.0\\microsoft.extensions.configuration.binder.9.0.0.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\microsoft.extensions.dependencymodel\\9.0.0\\microsoft.extensions.dependencymodel.9.0.0.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\9.0.0\\microsoft.extensions.diagnostics.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.0\\microsoft.extensions.fileproviders.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\9.0.0\\microsoft.extensions.hosting.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\microsoft.extensions.logging\\9.0.0\\microsoft.extensions.logging.9.0.0.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\microsoft.extensions.options\\9.0.0\\microsoft.extensions.options.9.0.0.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\serilog\\4.3.1-dev-02373\\serilog.4.3.1-dev-02373.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\serilog.extensions.hosting\\9.0.1-dev-02307\\serilog.extensions.hosting.9.0.1-dev-02307.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\serilog.extensions.logging\\9.0.0\\serilog.extensions.logging.9.0.0.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\serilog.settings.configuration\\9.0.1-dev-02317\\serilog.settings.configuration.9.0.1-dev-02317.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\serilog.sinks.console\\6.0.1-dev-00953\\serilog.sinks.console.6.0.1-dev-00953.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512",
+    "C:\\Users\\bellian.otieno\\.nuget\\packages\\serilog.sinks.seq\\9.0.0\\serilog.sinks.seq.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

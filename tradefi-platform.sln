@@ -7,6 +7,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api-gateway", "api-gateway", "{9627E87E-F5B7-00AC-2F43-5E65E23A8312}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{48B09C83-2E15-0808-2655-F58E359487A4}"
+	ProjectSection(SolutionItems) = preProject
+		services\api-gateway\src\.gitignore = services\api-gateway\src\.gitignore
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway", "services\api-gateway\src\Tradifi.ApiGateway\ApiGateway.csproj", "{1F567190-7A53-7358-DC27-61E37505017D}"
 EndProject

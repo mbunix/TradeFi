@@ -7,4 +7,8 @@ string corsPolicy = builder.Configuration["CorsPolicy"];
 // register the IhttpContextAccessor
 builder.Services.AddHttpContextAccessor();
 builder.AddCustomLogger();
-  
+builder.Services.InjectObjectLifeCycle();
+
+
+
+
